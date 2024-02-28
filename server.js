@@ -1,6 +1,8 @@
 const express = require("express");
 const app = express();
 
+app.use(cors());
+
 const PORT = process.env.PORT || 3001;
 
 const houses = require("./houses");
