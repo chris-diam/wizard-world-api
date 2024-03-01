@@ -7,9 +7,27 @@ This is a simple Node.js server that serves as a REST API to provide data about 
 To run this server locally, follow these steps:
 
 1. Clone the repository.
+
+```bash
+   git clone <repo-url>
+   ```
 2. Navigate to the project directory.
+
+```bash
+   cd wizard-world-api
+   ```
+ 
 3. Install dependencies.
+
+```bash
+  npm install
+   ```
+
 4. Run the server.
+
+```bash
+   node server.js
+   ```
 
 ## API Endpoints
 
