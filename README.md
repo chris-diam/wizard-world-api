@@ -9,7 +9,7 @@ To run this server locally, follow these steps:
 1. Clone the repository.
 
 ```bash
-   git clone <repo-url>
+   git clone <repository-url>
    ```
 2. Navigate to the project directory.
 
